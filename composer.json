@@ -1,0 +1,32 @@
+{
+    "name": "edneto/notifications",
+    "description": "This is a library that uses composer as the basis for generating email notifications",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Luiz Lima",
+            "email": "edneto.eternamente@gmail.com",
+			"homepage":"https://www.edsonllima.github.io",
+			"role":"Developer"
+        },
+		{
+			"name": "Edson L Lima",
+            "email": "focusti@hotmail.com",
+			"homepage":"https://www.edsonllima.github.io",
+			"role":"CEO and Founder"
+		}
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "6.0.5"
+    },
+	"config":{
+		"vendor-dir": "lib_ext"
+	},
+	"autoload":{
+		"psr-4":{
+			"Notifications\\":"_app"
+		}
+	}
+}
