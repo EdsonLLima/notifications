@@ -26,7 +26,7 @@ $email->sendEmail("SUbject", "Content", "reply@email.com", "Replay Name", "addre
 Note that the entire configuration of sending the email is using the magic method builder! Once you've invoked the constructor method within your application, your system will be able to fire the shots.
 
 ### Developers
-* [Edson Lima] - Developer of this library and full stack web developer
+* [Edson L Lima] - Developer of this library and full stack web developer
 * [phpMailer] - Lib to send Email
 
 License
@@ -69,7 +69,7 @@ $email->sendEmail("SUbject", "Content", "reply@email.com", "Replay Name", "addre
 Note que toda a configuração do envio do e-mail está utilizando o método mágico construtor! Uma vez invocado o método construtor dentro da sua aplicação, seu sistema estar'á apto a efetuar os disparos.
 
 ### Developers
-* [Edson Lima] - Desenvolvedor desta biblioteca e full stack web developer
+* [Edson L Lima] - Desenvolvedor desta biblioteca e full stack web developer
 * [phpMailer] - Lib to send E-mail
 
 License
@@ -80,7 +80,7 @@ MIT
 **Mais um biblioteca para agilizar seus processos, faça bom uso!**
 
 [//]:#
-[Edson Lima]: <mailto:focusti@hotmail.com>
+[Edson L Lima]: <mailto:focusti@hotmail.com>
 [phpMailer]: <https://github.com/PHPMailer/PHPMailer>
 
 
