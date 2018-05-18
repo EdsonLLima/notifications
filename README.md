@@ -5,7 +5,7 @@ This library has the function of sending e-mail using the phpmailer library. Doi
 To install the library, run the following command:
 
 ```sh
-composer require edsonllima/notifications
+composer require edneto/notifications
 ```
 
 To make use of the library, simply require the autoload of the composer, invoke the class and make the method call:
@@ -48,7 +48,7 @@ Essa biblioteca tem por função enviar e-mail utilizando a biblioteca phpmailer. 
 Para fazer a instalação da biblioteca, execute o seguinte comando:
 
 ```sh
-composer require edsonllima/notifications
+composer require edneto/notifications
 ```
 
 Para fazer o uso da biblioteca, basta requerir o autoload do composer, invocar a classe e fazer a chamada do método:
